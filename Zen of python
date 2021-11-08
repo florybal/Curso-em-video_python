@@ -1,0 +1,20 @@
+#Bonito é melhor que feio
+#Explicito é melhor que implícito
+#Simples é melhor que complexo
+#Linear é melhor do que aninhado
+#esparso é melhor que denso
+#Legibilidade conta
+#Casos especiais não são especiais o bastante para quebrar as regras
+#Ainda que praticidade vença a pureza
+#Erros nunca devem passar silenciosamente
+#A menos que sejam explicitamente silenciados
+#diante da ambiguidade, recuse a tentação de advinhar
+#Deveria haver um - e preferencialmete só um - modo obvio para
+fazer algo
+#Embora esse modo possa não ser obvio a princípio a menos que 
+você seja Holandes
+#Agora é melhor que nunca
+#Embora nunca frequentemente seja melhor que *já*
+#Se a implementação é dificil de explicar, é uma má ideia.
+#Se a implementação é facil de explicar, pode ser uma boa ideia
+#Namespaces são uma grande ideia - vamos ter mais dessas!
